@@ -15,7 +15,7 @@
   "dependencies": {
     "@vue/shared": "^3.2.37",
     "ali-oss": "^6.17.1",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "buffer-from": "^1.1.2",
     "codemirror": "^5.65.7",
     "core-js": "^3.24.1",
